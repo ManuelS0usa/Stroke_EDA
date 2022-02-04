@@ -1,2 +1,2 @@
 # Stroke_EDA
-Healthcare strokes data Exploratory analysis 
+Exploratory Data Analysis - Strokes Dataset
