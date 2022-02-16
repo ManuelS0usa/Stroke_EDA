@@ -1,5 +1,5 @@
 # Exploratory Data Analysis - Stroke Dataset
-### In the scope of Introduction to Machine Learning & Artificial Inteligence Class, 02/2022
+### In the scope of Introduction to Machine Learning & Artificial Inteligence Class
 
 ### Context
 According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths.
